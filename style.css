@@ -1,0 +1,77 @@
+header h1{
+text-align: center;
+font-size: 50px;
+color: rgb(90, 44, 0);
+}
+h1 img{
+width: 120px;
+height: 70px;
+}
+header{
+margin: 20px;
+padding: 20px;
+background-color: gold;
+border: 5px solid red;
+}
+header a{
+text-decoration: none;
+background-color: red;
+padding: 10px;
+color: black;
+font-size: 20px;
+border: 3px solid green;
+border-radius: 10px;
+
+}
+h2{
+text-align: center;
+font-size: 45px;
+color: chartreuse;
+background-color: brown;
+padding: 10px;
+border-radius: 15px;
+}
+body{
+margin: 20px;
+}
+main{
+background-color: darkgreen;
+}
+p{
+background-color: coral;
+margin: 5px;
+padding: 10px;
+border-radius: 10px;
+font-size: 30px;
+}
+nav a{
+margin:20px;
+font-size: 20px;
+text-decoration: none;
+color: white;
+background-color: navy;
+border-radius: 10px;
+border: 3px solid navy;
+padding: 5px;
+}
+.a{
+background-color: white;
+color: royalblue;
+}
+footer{
+background-color: darkgreen;
+margin: 20px;
+padding: 20px;
+}
+select{
+padding: 10px;
+background-color: white;
+color: royalblue;
+border-radius: 10px;
+font-size: 20px;
+border: 3px solid navy;
+}
+select option{
+color: white;
+background-color: navy;
+}
